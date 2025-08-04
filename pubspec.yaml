@@ -1,6 +1,6 @@
 name: dify_flutter
 description: A comprehensive Flutter package for integrating Dify AI platform with beautiful chat UI components. Features include real-time messaging, conversation management, and customizable UI.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/sezerogras/dify-flutter
 repository: https://github.com/sezerogras/dify-flutter
 issue_tracker: https://github.com/sezerogras/dify-flutter/issues
