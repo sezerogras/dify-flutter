@@ -1,2 +1,2 @@
-# dify-flutte
+# dify-flutter
 Flutter Dify Integration
